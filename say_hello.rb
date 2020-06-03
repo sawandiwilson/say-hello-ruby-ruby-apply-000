@@ -3,6 +3,10 @@ def say_hello (name = "Ruby Programmer" )
   
    
  end
+ 
+ puts "Hello Kent Beck!"
+ 
+ say_hello()
 
 
 
